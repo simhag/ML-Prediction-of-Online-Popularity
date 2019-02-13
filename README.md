@@ -1,6 +1,6 @@
 # Prediction of Online Popularity
 
-####Guillaume Chhor, Simon Hagege
+#### Guillaume Chhor, Simon Hagege
 
 Project as part of Stanford MS&E 226: "Small Data: Prediction, Inference, Causality".
 
